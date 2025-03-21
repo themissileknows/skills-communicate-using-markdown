@@ -1,3 +1,4 @@
-# heya
+# heya 2
 
-did shit
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
